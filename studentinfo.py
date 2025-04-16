@@ -13,6 +13,6 @@ class Student:
 
 # Example usage
 if __name__ == "__main__":
-    student1 = Student("Sania Irshad", "BSM-23-19", "Python Programming")
+    student1 = Student("Muhammad Danish", "BSM-2023-16", "Mathematics")
     student1.display_info()
     
