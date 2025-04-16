@@ -17,4 +17,6 @@ This is a basic Python program that demonstrates the use of a class to store and
 ## 🧾 Example Output
 
 When you run the program, it displays the following:
-
+Name:Muhammad Danish
+Roll No:BSM-2023-16
+Course:MAthematics
